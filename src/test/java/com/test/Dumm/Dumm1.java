@@ -7,5 +7,5 @@ public class Dumm1 {
 	public void dummy() {
 		System.out.println("");
 	}
-
+	
 }
